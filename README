@@ -39,6 +39,6 @@ ToDo:
 
 https://github.com/bmerry/PySPEAD
 
-
+pip install virtualenv==20.0.35
 pip install virtualenv
 virtualenv -p /usr/bin/python2.7 venv
