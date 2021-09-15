@@ -32,7 +32,7 @@ ToDo:
 >>> corr==0.7.3
 >>> construct==2.8.12  -> I had to downgrade it to==2.5.3 because it was
 >>> giving me trouble.
->>> katcp==0.6.1
+>>> katcp==0.5.4
 >>> numpy==1.12.1
 >>> spead==0.5.1
 >>> ...
