@@ -38,3 +38,7 @@ ToDo:
 >>> ...
 
 https://github.com/bmerry/PySPEAD
+
+
+pip install virtualenv
+virtualenv -p /usr/bin/python2.7 venv
