@@ -29,3 +29,12 @@ ToDo:
     - Create an error-handling class so that all scripts use the same thing. As it stands, all scripts re-write the same functions repeatedly.
     - fix integer rounding in corr_rx and in katsdip
 
+>>> corr==0.7.3
+>>> construct==2.8.12  -> I had to downgrade it to==2.5.3 because it was
+>>> giving me trouble.
+>>> katcp==0.6.1
+>>> numpy==1.12.1
+>>> spead==0.5.1
+>>> ...
+
+https://github.com/bmerry/PySPEAD
